@@ -22,3 +22,8 @@ This project demonstrates:
 - Scientific data analysis
 - Machine learning in materials science
 - Foundations for electron microscopy data interpretation
+
+
+## Results Visualization
+
+![Cluster Plot](results.png)
