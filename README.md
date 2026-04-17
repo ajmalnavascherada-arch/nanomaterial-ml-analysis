@@ -1,7 +1,7 @@
 # Unsupervised Machine Learning for Nanomaterial Analysis
 
-## Overview
-This project applies unsupervised machine learning techniques to analyze nanomaterial properties and identify hidden structure–property relationships.
+## Project Overview
+Machine learning-based analysis of nanomaterial properties using clustering and dimensionality reduction techniques.
 
 ## Methods
 - Data preprocessing and normalization (StandardScaler)
